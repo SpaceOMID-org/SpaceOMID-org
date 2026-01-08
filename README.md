@@ -39,7 +39,7 @@ A communication‑focused CubeSat platform developed to support **IoT and data r
 ---
 
 <p align="center">
-## 🤝 Get in Touch
+<h3 align="center">Space OMID Company</h3>
 <p align="center">
 <a href="https://spaceomid.com">
   <img height="50" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
