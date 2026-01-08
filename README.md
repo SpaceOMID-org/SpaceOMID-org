@@ -38,6 +38,7 @@ A communication‑focused CubeSat platform developed to support **IoT and data r
 
 ---
 
+<p align="center">
 ## 🤝 Get in Touch
 <p align="center">
 <a href="https://spaceomid.com">
@@ -53,6 +54,7 @@ A communication‑focused CubeSat platform developed to support **IoT and data r
   <img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+
 ---
 
 <p align="center">
