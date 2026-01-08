@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Replace the URL below with your banner image link -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/190d302c-5b36-4bd4-81cf-7a5c7dc535ef" alt="OmidFaza Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/190d302c-5b36-4bd4-81cf-7a5c7dc535ef" alt="Space OMID Banner" width="100%" />
 </p>
 
 
@@ -14,7 +14,7 @@
 
 **Space OMID** is a private space company focused on the **design, development, and operation of sensing and communication satellites**. The company is actively involved in advancing **low‑Earth orbit (LEO) satellite missions**, dual‑purpose space systems, and accelerating innovation in **space hardware, software, and downstream applications**.
 
-OmidFaza aims to make space more accessible by delivering **cost‑effective, scalable, and mission‑oriented satellite solutions** for Earth observation, IoT connectivity, and data‑driven services.
+Space OMID aims to make space more accessible by delivering **cost‑effective, scalable, and mission‑oriented satellite solutions** for Earth observation, IoT connectivity, and data‑driven services.
 
 ---
 
@@ -25,9 +25,6 @@ Earth observation satellites designed for remote sensing applications, including
 
 ### 📡 Hodhod Satellite
 A communication‑focused CubeSat platform developed to support **IoT and data relay services** with global or regional coverage.
-
-### 🔭 Dual‑View / Hybrid Missions
-Innovative satellite concepts combining **remote sensing and communication capabilities** within a single platform to maximize mission efficiency and data value.
 
 ---
 
@@ -43,9 +40,16 @@ Innovative satellite concepts combining **remote sensing and communication capab
 
 ## 🤝 Get in Touch
 
-📍 **Company Website:** https://spaceomid.com  
-📧 **Email:** info@spaceomid.com  
-💼 **LinkedIn:** https://ir.linkedin.com/company/spaceomid-co  
+📍 **Company Website:** https://spaceomid.com
+<a href="spaceomid.info@gmail.com">
+  <img height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/spaceomid/">
+  <img height="50" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://ir.linkedin.com/company/spaceomid-co">
+  <img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
