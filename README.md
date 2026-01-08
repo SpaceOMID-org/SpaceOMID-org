@@ -44,7 +44,7 @@ A communication‑focused CubeSat platform developed to support **IoT and data r
 <a href="https://spaceomid.com">
   <img height="50" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
-<a href="spaceomid.info@gmail.com">
+<a href="mailto:spaceomid.info@gmail.com">
   <img height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/spaceomid/">
